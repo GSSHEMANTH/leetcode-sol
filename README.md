@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
