@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
