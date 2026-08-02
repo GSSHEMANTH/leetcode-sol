@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0387-first-unique-character-in-a-string) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/1929-concatenation-of-array) |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0066-plus-one) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
