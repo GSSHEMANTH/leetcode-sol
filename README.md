@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0066-plus-one) |
 ## Union-Find
 |  |
