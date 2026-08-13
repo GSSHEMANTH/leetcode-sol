@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0242-valid-anagram) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0066-plus-one) |
 ## Union-Find
 |  |
