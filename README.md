@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0067-add-binary) |
 ## Union-Find
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
