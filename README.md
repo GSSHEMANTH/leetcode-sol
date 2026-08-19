@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0242-valid-anagram) |
 ## Queue
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0238-product-of-array-except-self) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
