@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/0070-climbing-stairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/GSSHEMANTH/leetcode-sol/tree/master/3875-construct-uniform-parity-array-i) |
 ## Union-Find
 |  |
 | ------- |
